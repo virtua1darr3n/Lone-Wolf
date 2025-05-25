@@ -1,4 +1,4 @@
-# 🐺 Lone Wolf - UDP Flood Educational Tool
+# 🐺 Lone Wolf - UDP Flood Tool
 
 **Version:** 1.0  
 **Coded by:** virtua1darr3n
