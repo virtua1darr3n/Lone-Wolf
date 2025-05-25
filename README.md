@@ -22,6 +22,6 @@
 ### Manual
 
 ```bash
-git clone https://github.com/yourusername/lone-wolf.git
+git clone https://github.com/virtua1darr3n/lone-wolf.git
 cd lone-wolf
 chmod +x lonewolf.py
