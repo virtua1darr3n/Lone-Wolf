@@ -1,23 +1,23 @@
-# 🐺 Lone Wolf - UDP Flood Tool
+# Lone Wolf - UDP Flood Tool
 
 **Version:** 1.0  
 **Coded by:** virtua1darr3n
 
-> ❗ For ethical and educational penetration testing only.
+> For ethical and educational penetration testing only.
 
-## 🚀 Features
+## Features
 
 - Bypasses basic firewalls with large UDP packets
 - Optional random sleep
 - Multithreaded (500 threads)
 - Lightweight and simple CLI
 
-## 🛠️ Requirements
+## 🛠Requirements
 
 - Python 3.x
 - Works on Kali Linux, Parrot OS
 
-## 🧪 Installation
+## Installation
 
 ### Manual
 
