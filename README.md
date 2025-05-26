@@ -10,7 +10,7 @@
 - Bypasses basic firewalls with large UDP packets
 - Optional random sleep
 - Multithreaded (500 threads)
-- Lightweight and simple CLI
+
 
 ## 🛠Requirements
 
@@ -25,3 +25,4 @@
 git clone https://github.com/virtua1darr3n/lone-wolf.git
 cd lone-wolf
 chmod +x lonewolf.py
+python3 lonewolf.py
