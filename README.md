@@ -12,9 +12,9 @@
 - Multithreaded (500 threads)
 
 
-## 🛠Requirements
+## Requirements
 
-- Python 3.x
+- Python 3
 - Works on Kali Linux, Parrot OS
 
 ## Installation
